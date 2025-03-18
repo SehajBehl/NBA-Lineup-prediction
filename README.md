@@ -38,7 +38,7 @@ Make sure your project follows this structure for correct execution:
 ```
 NBA_Prediction/
 │── config.py
-│── model_script.py
+│── RandomForest.py
 │── NBA_labels/
 │   ├── NBA_labels_2007.csv
 │   ├── NBA_labels_2008.csv
@@ -46,6 +46,7 @@ NBA_Prediction/
 │   ├── NBA_test_2007.csv
 │   ├── NBA_test_2008.csv
 │── NBA_predictions/
+|── data/
 ```
 
 ## Common Issues & Fixes
