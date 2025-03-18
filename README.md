@@ -39,10 +39,10 @@ Make sure your project follows this structure for correct execution:
 NBA_Prediction/
 │── config.py
 │── RandomForest.py
-│── NBA_labels/
+│── NBA_LABLES/
 │   ├── NBA_labels_2007.csv
 │   ├── NBA_labels_2008.csv
-│── NBA_test/
+│── NBA_Test/
 │   ├── NBA_test_2007.csv
 │   ├── NBA_test_2008.csv
 │── NBA_predictions/
